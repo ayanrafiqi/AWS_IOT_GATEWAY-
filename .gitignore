@@ -1,0 +1,10 @@
+/node_modules
+.vscode
+connect_device_package.zip
+myPC.cert.pem
+myPc.private.key
+myPc.public.key
+rootCA1.pem.crt
+start.ps1
+AmazonRootCA2.pem.crt
+./
